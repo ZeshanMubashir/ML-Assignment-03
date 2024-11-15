@@ -30,3 +30,5 @@ Python 3.x
 TensorFlow
 Keras
 Jupyter Notebook
+
+And for Project report, pdf file.
